@@ -1,0 +1,89 @@
+{
+  "what is cybersecurity": "Cybersecurity is the practice of protecting systems, networks, and data from digital attacks, unauthorized access, and damage.",
+
+  "why cybersecurity is important": "Cybersecurity protects personal data, financial information, and critical systems from cyber threats.",
+
+  "what are cyber threats": "Cyber threats are malicious activities that attempt to damage, steal, or disrupt digital systems.",
+
+  "types of cyber threats": "Common cyber threats include phishing, malware, ransomware, hacking, data breaches, and identity theft.",
+
+  "what is cybercrime": "Cybercrime is any illegal activity conducted using computers, networks, or the internet.",
+
+  "examples of cybercrime": "Examples include online fraud, hacking, identity theft, cyberstalking, and ransomware attacks.",
+
+  "what is data breach": "A data breach occurs when sensitive data is accessed or disclosed without authorization.",
+
+  "impact of data breach": "Data breaches can lead to financial loss, identity theft, and reputational damage.",
+
+  "what is hacking": "Hacking is the act of gaining unauthorized access to systems or networks.",
+
+  "difference between hacker and cracker": "Hackers may work ethically, while crackers perform malicious hacking.",
+
+  "what is ethical hacking": "Ethical hacking involves authorized testing of systems to identify security weaknesses.",
+
+  "what is cyber hygiene": "Cyber hygiene refers to practices that maintain system health and security.",
+
+  "best cyber hygiene practices": "Use strong passwords, update software, back up data, and stay alert to phishing.",
+
+  "what is firewall": "A firewall monitors and controls incoming and outgoing network traffic.",
+
+  "what is antivirus": "Antivirus software detects and removes malicious software.",
+
+  "what is software update": "Software updates fix security vulnerabilities and improve performance.",
+
+  "why updates are important": "Updates protect systems from known security flaws.",
+
+  "what is encryption": "Encryption converts data into unreadable form to protect confidentiality.",
+
+  "what is secure website": "A secure website uses HTTPS to encrypt data transmission.",
+
+  "what does https mean": "HTTPS means HyperText Transfer Protocol Secure.",
+
+  "how to check website security": "Check for HTTPS, valid certificates, and correct domain names.",
+
+  "what is identity theft": "Identity theft occurs when someone uses your personal information fraudulently.",
+
+  "how identity theft happens": "It happens through phishing, data breaches, and social engineering.",
+
+  "how to protect personal data": "Limit data sharing, use strong passwords, and stay alert to scams.",
+
+  "what is cyber awareness": "Cyber awareness means understanding online risks and safe practices.",
+
+  "why cyber awareness matters": "Awareness reduces the chances of falling victim to cyber attacks.",
+
+  "what is online scam": "An online scam tricks users into losing money or information.",
+
+  "how to identify online scams": "Scams often promise rewards, create urgency, or request sensitive data.",
+
+  "what is fake website": "A fake website mimics legitimate sites to steal information.",
+
+  "how to verify website authenticity": "Check URL spelling, HTTPS, and official sources.",
+
+  "what is social media risk": "Social media risk involves oversharing personal information.",
+
+  "how to stay safe on social media": "Limit privacy settings and avoid suspicious links.",
+
+  "what is digital footprint": "Digital footprint is the trail of data you leave online.",
+
+  "why digital footprint matters": "It can be misused for profiling or social engineering.",
+
+  "what is cyber law": "Cyber law governs legal issues related to technology and the internet.",
+
+  "is cybercrime punishable": "Yes, cybercrime is punishable under national and international laws.",
+
+  "how to report cybercrime": "Report cybercrime to official cybercrime portals or law enforcement.",
+
+  "what is cyber safety": "Cyber safety means staying protected while using digital platforms.",
+
+  "best practices for cyber safety": "Be cautious, verify information, and follow security guidelines.",
+
+  "what is online privacy": "Online privacy refers to controlling personal information shared online.",
+
+  "how to improve online privacy": "Use privacy settings, VPNs, and avoid unnecessary data sharing.",
+
+  "what is cyber resilience": "Cyber resilience is the ability to recover from cyber incidents.",
+
+  "why cyber resilience is important": "It ensures continuity and quick recovery after attacks.",
+
+  "how to stay safe online": "Stay updated, verify sources, and never share sensitive information impulsively."
+}

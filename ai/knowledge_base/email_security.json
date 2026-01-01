@@ -1,0 +1,63 @@
+{
+  "what is social engineering": "Social engineering is a manipulation technique used by attackers to trick people into revealing confidential information or performing actions that compromise security.",
+
+  "how social engineering works": "Social engineering works by exploiting human emotions such as fear, urgency, trust, curiosity, or greed.",
+
+  "types of social engineering": "Common types include phishing, pretexting, baiting, tailgating, scareware, and impersonation.",
+
+  "what is pretexting": "Pretexting is a social engineering attack where attackers create a fake scenario to obtain sensitive information.",
+
+  "what is baiting": "Baiting involves offering something enticing, like free software or gifts, to trick users into revealing data or installing malware.",
+
+  "what is tailgating": "Tailgating occurs when an attacker gains physical access to restricted areas by following authorized personnel.",
+
+  "what is scareware": "Scareware uses fake warnings or threats to trick users into downloading malware or paying money.",
+
+  "what is impersonation attack": "Impersonation attacks involve pretending to be a trusted individual such as IT staff, police, or bank officials.",
+
+  "how attackers gain trust": "Attackers gain trust by using official language, logos, spoofed emails, and pretending to be authorities.",
+
+  "why social engineering is dangerous": "Social engineering bypasses technical security by targeting human behavior instead of systems.",
+
+  "examples of social engineering": "Examples include fake bank calls, urgent email requests, fake job offers, and tech support scams.",
+
+  "what is tech support scam": "Tech support scams involve fake alerts claiming your system is infected and asking for payment or access.",
+
+  "how to identify social engineering": "Signs include urgency, threats, unexpected requests, secrecy demands, and emotional pressure.",
+
+  "what emotions are exploited": "Attackers exploit fear, urgency, curiosity, greed, sympathy, and authority.",
+
+  "how to prevent social engineering": "Verify identities, do not share sensitive data, question urgency, and follow security policies.",
+
+  "is social engineering illegal": "Yes, social engineering used for fraud or data theft is illegal and punishable by law.",
+
+  "what is human hacking": "Human hacking is another term for social engineering, focusing on manipulating people instead of systems.",
+
+  "how employees are targeted": "Employees are targeted through fake emails, calls, USB drops, and impersonation.",
+
+  "what is business email compromise": "Business Email Compromise is a scam where attackers impersonate executives to steal money or data.",
+
+  "how to train against social engineering": "Training includes awareness programs, simulations, and strict verification procedures.",
+
+  "what is authority based attack": "Authority-based attacks rely on impersonating figures of authority to pressure victims.",
+
+  "what is urgency attack": "Urgency attacks pressure victims to act quickly without thinking.",
+
+  "how to respond to suspicious requests": "Pause, verify through official channels, and report suspicious activity.",
+
+  "can social engineering bypass antivirus": "Yes, because it targets human behavior rather than technical vulnerabilities.",
+
+  "what is information harvesting": "Information harvesting collects personal data to build believable attacks.",
+
+  "how attackers collect information": "Attackers collect information from social media, data breaches, and public records.",
+
+  "what is spear phishing": "Spear phishing is a targeted social engineering attack against specific individuals.",
+
+  "how to stay safe from social engineering": "Stay alert, verify requests, limit personal information sharing, and report suspicious behavior.",
+
+  "why awareness is important": "Awareness reduces the risk of falling victim to social engineering attacks.",
+
+  "is social engineering preventable": "While it cannot be eliminated completely, awareness and verification greatly reduce risk.",
+
+  "what to do if targeted": "Do not respond, report the incident, and alert relevant authorities or IT teams."
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "question": "what is phishing",
+    "answer": "Phishing is a cyber attack where criminals trick users into sharing sensitive information such as passwords, OTPs, credit card numbers, or bank details by pretending to be a trusted organization."
+  },
+  {
+    "question": "phishing meaning",
+    "answer": "Phishing means fraudulently attempting to obtain confidential information by disguising as a trustworthy entity through emails, messages, or fake websites."
+  },
+  {
+    "question": "what is a phishing attack",
+    "answer": "A phishing attack is an attempt to steal personal or financial data using fake emails, SMS, phone calls, or websites."
+  },
+  {
+    "question": "how phishing works",
+    "answer": "Phishing works by creating urgency or fear and directing victims to fake links or forms that steal their information."
+  },
+  {
+    "question": "types of phishing",
+    "answer": "Types of phishing include email phishing, spear phishing, smishing (SMS phishing), vishing (voice phishing), and clone phishing."
+  },
+  {
+    "question": "email phishing",
+    "answer": "Email phishing involves sending fake emails that appear legitimate and ask users to click malicious links or download harmful attachments."
+  },
+  {
+    "question": "sms phishing",
+    "answer": "SMS phishing, also known as smishing, uses fake text messages to trick users into clicking malicious links or sharing OTPs."
+  },
+  {
+    "question": "vishing",
+    "answer": "Vishing is voice phishing where attackers call victims pretending to be bank officials, customer care, or government authorities."
+  },
+  {
+    "question": "how to identify phishing",
+    "answer": "Phishing can be identified by checking suspicious links, spelling errors, unknown senders, urgent language, and requests for sensitive data."
+  },
+  {
+    "question": "signs of phishing",
+    "answer": "Common signs of phishing include urgent messages, threats, offers too good to be true, and unexpected requests for verification."
+  },
+  {
+    "question": "is phishing illegal",
+    "answer": "Yes, phishing is illegal and punishable under cybercrime laws in most countries."
+  },
+  {
+    "question": "phishing examples",
+    "answer": "Examples of phishing include fake bank emails, lottery messages, fake account suspension alerts, and OTP requests."
+  },
+  {
+    "question": "how to report phishing",
+    "answer": "Phishing can be reported to your email provider, bank, or national cybercrime portal such as cybercrime.gov.in."
+  },
+  {
+    "question": "what happens if you click a phishing link",
+    "answer": "Clicking a phishing link can lead to data theft, malware installation, account compromise, or financial loss."
+  },
+  {
+    "question": "difference between phishing and scam",
+    "answer": "Phishing is a type of scam that specifically targets sensitive information using fake communication channels."
+  },
+  {
+    "question": "how to stay safe from phishing",
+    "answer": "To stay safe from phishing, avoid clicking unknown links, verify senders, enable two-factor authentication, and never share OTPs."
+  }
+]

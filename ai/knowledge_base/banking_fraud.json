@@ -1,0 +1,65 @@
+{
+  "what is a strong password": "A strong password is a combination of uppercase letters, lowercase letters, numbers, and special characters with a minimum length of 12 characters.",
+
+  "how to create a strong password": "To create a strong password, use a mix of letters, numbers, and symbols, avoid personal information, and never reuse passwords.",
+
+  "why strong passwords are important": "Strong passwords protect your accounts from hacking, brute-force attacks, and unauthorized access.",
+
+  "what is password cracking": "Password cracking is a cyber attack where attackers try to guess passwords using automated tools and common wordlists.",
+
+  "what is brute force attack": "A brute force attack attempts all possible password combinations until the correct one is found.",
+
+  "what is dictionary attack": "A dictionary attack uses a list of common passwords and words to guess user passwords.",
+
+  "what is password reuse": "Password reuse is using the same password for multiple accounts, which increases the risk of compromise.",
+
+  "why password reuse is dangerous": "If one account is hacked, attackers can access all other accounts using the same password.",
+
+  "what is two factor authentication": "Two-factor authentication adds an extra layer of security by requiring a second verification step like OTP or biometrics.",
+
+  "what is multi factor authentication": "Multi-factor authentication requires two or more verification methods such as password, OTP, fingerprint, or face recognition.",
+
+  "difference between 2fa and mfa": "2FA uses two security factors, while MFA can use more than two authentication methods.",
+
+  "what is otp": "OTP stands for One-Time Password, a temporary code sent to your phone or email for verification.",
+
+  "is sharing otp safe": "No, sharing OTPs is unsafe and can lead to account takeover and financial loss.",
+
+  "what is password manager": "A password manager securely stores and generates strong passwords for your accounts.",
+
+  "are password managers safe": "Reputable password managers use encryption and are safer than remembering passwords manually.",
+
+  "how often should passwords be changed": "Passwords should be changed regularly, especially if a data breach is suspected.",
+
+  "what is passphrase": "A passphrase is a long sequence of random words used as a password, making it stronger and easier to remember.",
+
+  "example of strong password": "An example of a strong password is: T9@rL#7Q!mPz2",
+
+  "example of weak password": "Examples of weak passwords include 123456, password, admin, or your name.",
+
+  "how hackers steal passwords": "Hackers steal passwords using phishing, malware, keyloggers, brute force attacks, and data breaches.",
+
+  "what is keylogger": "A keylogger is malware that records keystrokes to capture passwords and sensitive information.",
+
+  "how to protect passwords": "Protect passwords by using strong passwords, enabling 2FA, avoiding phishing links, and using a password manager.",
+
+  "should i save passwords in browser": "Saving passwords in browsers can be risky on shared or infected devices.",
+
+  "what is credential stuffing": "Credential stuffing is an attack where stolen usernames and passwords are reused across multiple websites.",
+
+  "how to prevent credential stuffing": "Prevent credential stuffing by using unique passwords and enabling multi-factor authentication.",
+
+  "what is biometric authentication": "Biometric authentication uses physical traits like fingerprints or facial recognition for security.",
+
+  "are biometrics safer than passwords": "Biometrics are convenient but should be combined with passwords or PINs for better security.",
+
+  "what is password hashing": "Password hashing converts passwords into unreadable formats to protect them in databases.",
+
+  "why websites hash passwords": "Websites hash passwords so that even if data is leaked, passwords cannot be easily recovered.",
+
+  "what should i do if my password is leaked": "If your password is leaked, immediately change it everywhere and enable two-factor authentication.",
+
+  "how to know if password is compromised": "You may know your password is compromised if you receive breach alerts or suspicious login activity.",
+
+  "best practices for password security": "Best practices include using unique passwords, enabling MFA, avoiding public Wi-Fi logins, and staying alert to phishing."
+}

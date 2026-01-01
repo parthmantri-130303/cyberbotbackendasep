@@ -1,0 +1,73 @@
+{
+  "what is mobile security": "Mobile security refers to protecting smartphones and tablets from malware, data theft, unauthorized access, and cyber attacks.",
+
+  "why mobile security is important": "Mobile phones store personal, financial, and professional data, making them prime targets for attackers.",
+
+  "what is mobile malware": "Mobile malware is malicious software designed to infect smartphones and steal data or control the device.",
+
+  "how mobile malware spreads": "Mobile malware spreads through fake apps, malicious links, SMS phishing, and unsafe downloads.",
+
+  "what is smishing": "Smishing is SMS phishing where attackers send fake text messages to trick users into clicking malicious links or sharing OTPs.",
+
+  "what is malicious app": "A malicious app pretends to be legitimate but steals data or performs harmful actions.",
+
+  "how to identify fake apps": "Fake apps often request excessive permissions, have poor reviews, or are downloaded from unofficial stores.",
+
+  "why app permissions matter": "App permissions control what data and features an app can access on your phone.",
+
+  "what permissions are risky": "Permissions like SMS access, contacts, microphone, and storage can be risky if misused.",
+
+  "how to secure mobile apps": "Install apps only from official app stores and review permissions carefully.",
+
+  "what is mobile phishing": "Mobile phishing targets smartphone users through apps, SMS, and mobile websites.",
+
+  "what is qr code fraud": "QR code fraud tricks users into scanning malicious QR codes that initiate payments or install malware.",
+
+  "is scanning qr code safe": "Scanning QR codes can be risky if the source is unknown.",
+
+  "what is mobile banking fraud": "Mobile banking fraud involves unauthorized access to banking apps or payment services.",
+
+  "how attackers hack mobile phones": "Attackers use phishing, spyware, malicious apps, and unsecured Wi-Fi networks.",
+
+  "what is public wi-fi risk": "Public Wi-Fi can expose data to attackers through man-in-the-middle attacks.",
+
+  "how to stay safe on public wi-fi": "Avoid sensitive transactions and use VPN on public Wi-Fi.",
+
+  "what is mobile spyware": "Mobile spyware secretly monitors user activity and collects personal data.",
+
+  "how to detect mobile spyware": "Signs include battery drain, overheating, slow performance, and unknown apps.",
+
+  "what is sim swap fraud": "SIM swap fraud allows attackers to hijack phone numbers to intercept OTPs.",
+
+  "how to prevent sim swap fraud": "Protect personal data and report network issues immediately.",
+
+  "what is phone hacking": "Phone hacking involves gaining unauthorized access to a mobile device.",
+
+  "how to protect phone from hacking": "Use screen locks, strong passwords, and keep software updated.",
+
+  "what is mobile antivirus": "Mobile antivirus apps detect and remove malicious software.",
+
+  "is mobile antivirus necessary": "Mobile antivirus adds extra protection, especially for high-risk users.",
+
+  "how to update phone securely": "Install updates from official sources and enable automatic updates.",
+
+  "what is screen lock security": "Screen lock security prevents unauthorized physical access to the phone.",
+
+  "difference between pin and biometric": "PINs are knowledge-based, while biometrics use physical traits.",
+
+  "what is app sandboxing": "App sandboxing isolates apps to prevent them from accessing other app data.",
+
+  "how to protect mobile data": "Encrypt devices, enable backups, and avoid unknown downloads.",
+
+  "what to do if phone is lost": "Lock the device remotely, change passwords, and report to authorities.",
+
+  "can stolen phone access bank apps": "Yes, if not secured properly, stolen phones can expose banking apps.",
+
+  "how attackers target mobile users": "Attackers exploit trust, convenience, and lack of security awareness.",
+
+  "best practices for mobile security": "Use strong locks, official apps, updates, and stay alert to phishing.",
+
+  "is mobile security different from pc": "Yes, mobile security focuses more on app permissions and physical access.",
+
+  "how to stay safe from mobile threats": "Be cautious with links, apps, and permissions at all times."
+}
