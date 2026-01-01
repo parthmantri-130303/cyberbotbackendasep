@@ -27,7 +27,9 @@ HF_HEADERS = {
 # ================= MONGODB =================
 mongo_client = MongoClient(MONGODB_URI)
 db = mongo_client["cyberbot"]
-logs_collection = db["logs"]
+
+# ✅ FIXED: collection name matches MongoDB Atlas
+logs_collection = db["chats"]
 
 # ================= HUGGING FACE MODELS =================
 PHISHING_MODEL_URL = "https://api-inference.huggingface.co/models/ealvaradob/bert-finetuned-phishing"
