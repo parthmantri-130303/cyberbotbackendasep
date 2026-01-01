@@ -1,29 +1,33 @@
 import json
 import os
+import re
 
-BASE_DIR = os.path.join(os.path.dirname(__file__), "knowledge_base")
+BASE_DIR = os.path.dirname(__file__)
+KB_PATH = os.path.join(BASE_DIR, "knowledge_base.json")
 
-def load_knowledge_base():
-    knowledge = {}
+# Load knowledge base once
+with open(KB_PATH, "r", encoding="utf-8") as f:
+    KNOWLEDGE_BASE = json.load(f)
 
-    for filename in os.listdir(BASE_DIR):
-        if filename.endswith(".json"):
-            filepath = os.path.join(BASE_DIR, filename)
-            with open(filepath, "r", encoding="utf-8") as f:
-                data = json.load(f)
-                knowledge.update(data)
+def normalize(text: str) -> str:
+    text = text.lower().strip()
+    text = re.sub(r"[^\w\s]", "", text)   # remove punctuation
+    return text
 
-    return knowledge
+def get_knowledge_answer(user_input: str):
+    if not user_input:
+        return None
 
+    query = normalize(user_input)
 
-KNOWLEDGE_DB = load_knowledge_base()
+    # 1️⃣ Exact match
+    if query in KNOWLEDGE_BASE:
+        return KNOWLEDGE_BASE[query]
 
-
-def get_knowledge_answer(user_message: str):
-    user_message = user_message.lower().strip()
-
-    for question, answer in KNOWLEDGE_DB.items():
-        if question in user_message:
+    # 2️⃣ Partial / fuzzy match
+    for key, answer in KNOWLEDGE_BASE.items():
+        if key in query or query in key:
             return answer
 
+    # 3️⃣ NO match → return None (IMPORTANT)
     return None
